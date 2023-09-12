@@ -1,2 +1,2 @@
 # wasm-php
-wasm-files for php versions
+wasm-php wasm files to run php script in nodejs environments
